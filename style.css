@@ -1,0 +1,97 @@
+<!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+<style>
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+</style>
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 18px;
+  color: hsl(0, 0%, 59%);
+  background-color: hsl(185, 75%, 39%);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+  text-align: center;
+}
+
+.card {
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  border-radius: 15px;
+  overflow: hidden;
+  margin: 100px 50px 100px 50px;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+.age, .city {
+  color: hsl(0, 0%, 59%);
+  font-weight: 500;
+}
+
+.city {
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.name {
+  color: hsl(229, 23%, 23%);
+  margin: 0;
+}
+
+hr {
+  opacity: 0.5;
+  margin-block: 0;
+}
+
+.card-bottom {
+   display: inline;
+
+}
+
+.img-container {
+  margin: -60px auto 20px auto;
+}
+
+.img-container img {
+  border-radius: 50%;
+  border : 4px solid white;
+}
+
+.infos {
+  display: inline;
+}
+
+table {
+  font-family: 'Kumbh Sans', sans-serif;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+td {
+  padding-bottom: 5px;
+  width: 70px;
+}
+
+.digit td {
+  color: hsl(229, 23%, 23%);
+}
+
+.info td {
+  font-size: 10px;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
