@@ -29,6 +29,8 @@ body {
   border-radius: 15px;
   overflow: hidden;
   margin: 100px 50px 100px 50px;
+  position: relative;
+  overflow: hidden;
 }
 
 h1 {
@@ -94,4 +96,19 @@ td {
   font-size: 10px;
   letter-spacing: 2px;
   font-weight: 400;
+}
+
+.circles .circle1,
+.circles .circle2{
+  position: absolute;
+}
+
+.circles .circle1 {
+  top: -510px;
+  left: -290px;
+}
+
+.circles .circle2 {
+  bottom: -700px;
+  right: -200px;
 }
