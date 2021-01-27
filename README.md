@@ -1,2 +1,6 @@
 # profileCard
-My very first challenge on Frontend Mentor. This is the Profile Card challenge using HTML &amp; CSS. I have just learned HTML &amp; CSS for a month, so I am very open for critics and suggestions for further development. Thank You!
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
