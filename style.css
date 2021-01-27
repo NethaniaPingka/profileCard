@@ -112,11 +112,3 @@ td {
   bottom: -700px;
   right: -200px;
 }
-
-.attribution{
-        position: absolute;
-        top: 90%;
-        color: rgb(51, 68, 87);
-
-        line-height: 150%;
-    }
